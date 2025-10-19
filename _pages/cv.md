@@ -4,7 +4,7 @@ permalink: /cv/
 title: cv
 nav: true
 nav_order: 5
-cv_pdf: Hadas_Barabash_cv_sep2025.pdf # you can also use external links here
+cv_pdf: cv_barabash.pdf # you can also use external links here
 description: 
 toc:
   sidebar: left
